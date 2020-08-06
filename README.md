@@ -10,7 +10,7 @@ This code will do the following:
 4. Search for files within the Chrome, Firefox, or Brave browser directories
 5. Create a directory on our FTP server then send the files in the browser's directory to the FTP server
 
-#Cross Compiling with MingW on Linux
+# Cross Compiling with MingW on Linux
 
 Install command with Apt:
 
